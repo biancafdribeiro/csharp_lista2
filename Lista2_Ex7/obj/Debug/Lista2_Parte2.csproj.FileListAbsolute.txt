@@ -1,0 +1,7 @@
+C:\Users\bibif\source\repos\Lista2_Parte2\bin\Debug\Lista2_Parte2.exe.config
+C:\Users\bibif\source\repos\Lista2_Parte2\bin\Debug\Lista2_Parte2.exe
+C:\Users\bibif\source\repos\Lista2_Parte2\bin\Debug\Lista2_Parte2.pdb
+C:\Users\bibif\source\repos\Lista2_Parte2\obj\Debug\Lista2_Parte2.csproj.AssemblyReference.cache
+C:\Users\bibif\source\repos\Lista2_Parte2\obj\Debug\Lista2_Parte2.csproj.CoreCompileInputs.cache
+C:\Users\bibif\source\repos\Lista2_Parte2\obj\Debug\Lista2_Parte2.exe
+C:\Users\bibif\source\repos\Lista2_Parte2\obj\Debug\Lista2_Parte2.pdb
